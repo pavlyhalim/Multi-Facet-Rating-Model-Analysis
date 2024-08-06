@@ -1,5 +1,5 @@
 
-# Multi-Facet Rating Model (MFRM) Analysis Script
+# Multi-Facet Rating Model (MFRM) Analysis tool
 
 
 This Project implements an advanced Multi-Facet Rating Model (MFRM) analysis for assessing multiple facets of a rating process, such as examinees, raters, and criteria. The script uses powerful tools to uncover patterns, identify potential biases, and measure the reliability of the rating process. This allows you to make more informed decisions based on your rating data.
